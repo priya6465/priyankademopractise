@@ -8,4 +8,9 @@ public class googlelogin {
 	public void verifygoogletest() {
 		System.out.println("ttile is google");
 	}
+	@Test
+	public void test2() {
+		System.out.println("add testcase 2");
+		
+	}
 }
