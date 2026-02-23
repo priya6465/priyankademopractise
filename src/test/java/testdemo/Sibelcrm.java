@@ -8,7 +8,11 @@ public void sibelcrmtest() {
 	System.out.println("test1");
 }
 @Test
-public void test2() {
+public void test2s() {
 	System.out.println("test2");
+}
+@Test
+public void test3() {
+	System.out.println("test3");
 }
 }
