@@ -7,4 +7,8 @@ public class Sibelcrm {
 public void sibelcrmtest() {
 	System.out.println("test1");
 }
+@Test
+public void test2() {
+	System.out.println("test2");
+}
 }
