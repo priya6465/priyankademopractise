@@ -8,6 +8,9 @@ public class HrmTest {
 	public void hrmtest() {
 		System.out.println("login test");
 	}
-	
+	@Test
+	public void test2() {
+		System.out.println("test2");
+	}
 	
 }
